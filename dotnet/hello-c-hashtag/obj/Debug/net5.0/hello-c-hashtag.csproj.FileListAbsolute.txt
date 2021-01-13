@@ -1,0 +1,16 @@
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\bin\Debug\net5.0\hello-c-hashtag.exe
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\bin\Debug\net5.0\hello-c-hashtag.deps.json
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\bin\Debug\net5.0\hello-c-hashtag.runtimeconfig.json
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\bin\Debug\net5.0\hello-c-hashtag.runtimeconfig.dev.json
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\bin\Debug\net5.0\hello-c-hashtag.dll
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\bin\Debug\net5.0\ref\hello-c-hashtag.dll
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\bin\Debug\net5.0\hello-c-hashtag.pdb
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\obj\Debug\net5.0\hello-c-hashtag.csprojAssemblyReference.cache
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\obj\Debug\net5.0\hello-c-hashtag.GeneratedMSBuildEditorConfig.editorconfig
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\obj\Debug\net5.0\hello-c-hashtag.AssemblyInfoInputs.cache
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\obj\Debug\net5.0\hello-c-hashtag.AssemblyInfo.cs
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\obj\Debug\net5.0\hello-c-hashtag.csproj.CoreCompileInputs.cache
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\obj\Debug\net5.0\hello-c-hashtag.dll
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\obj\Debug\net5.0\ref\hello-c-hashtag.dll
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\obj\Debug\net5.0\hello-c-hashtag.pdb
+F:\USB Drive\hello-world\dotnet\hello-c-hashtag\obj\Debug\net5.0\hello-c-hashtag.genruntimeconfig.cache

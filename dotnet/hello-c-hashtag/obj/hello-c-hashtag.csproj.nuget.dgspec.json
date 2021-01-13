@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\USB Drive\\hello-world\\dotnet\\hello-c-hashtag\\hello-c-hashtag.csproj": {}
+  },
+  "projects": {
+    "F:\\USB Drive\\hello-world\\dotnet\\hello-c-hashtag\\hello-c-hashtag.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\USB Drive\\hello-world\\dotnet\\hello-c-hashtag\\hello-c-hashtag.csproj",
+        "projectName": "hello-c-hashtag",
+        "projectPath": "F:\\USB Drive\\hello-world\\dotnet\\hello-c-hashtag\\hello-c-hashtag.csproj",
+        "packagesPath": "C:\\Users\\talhaasghar\\.nuget\\packages\\",
+        "outputPath": "F:\\USB Drive\\hello-world\\dotnet\\hello-c-hashtag\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\talhaasghar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
